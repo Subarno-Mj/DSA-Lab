@@ -1,0 +1,12 @@
+A Stack follows LIFO (Last In, First Out).
+
+Stack —  Common Operations :-
+
+push() — add an element
+pop() — remove the top element
+peek() / top() — view the top element
+is_empty() — check whether stack is empty
+size() — number of elements
+clear() — remove all elements
+display() — display elements
+search() — find an element
