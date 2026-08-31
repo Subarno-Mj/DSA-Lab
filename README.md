@@ -1,7 +1,5 @@
 # DSA-Lab
 
-Linked List - Singly  and  Doubly Linked List operations 
+1. Linked List - Singly  and  Doubly Linked List operations 
 
-Stack operations 
-
-Queue operations
+2. Stack operations , Queue operations , implementation 
