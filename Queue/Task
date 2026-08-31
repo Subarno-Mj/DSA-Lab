@@ -1,0 +1,13 @@
+A Queue follows FIFO (First In, First Out).
+
+Common operations: 
+
+enqueue() — add an element at the rear
+dequeue() — remove an element from the front
+peek() / front() — view the front element
+rear() — view the last element
+is_empty() — check whether queue is empty
+size() — number of elements
+clear() — remove all elements
+display() — display elements
+search() — find an element
